@@ -1,2 +1,0 @@
-# Census
-Census Project
