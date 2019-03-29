@@ -1,0 +1,6 @@
+{
+    "github.allowUnsafeSSL": true,
+    "github.autoPublish": true,
+    "github.customPullRequestDescription": "gitEditor",
+    "github.customPullRequestTitle": true
+}
